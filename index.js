@@ -1,3 +1,4 @@
 (function() {
-    console.log('hello world');
-})
+    const name = "Mousey";
+    console.log('hello ' + name);
+});
