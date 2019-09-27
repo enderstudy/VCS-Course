@@ -5,6 +5,6 @@
 (function() {
     const date = new Date();
     const name = "Mousey";
-    
-    console.log('hello ' + name.toUpperCase());
+
+    console.log('hello ' + name.toUpperCase() + " this was logged on: " + date.getTime());
 });
