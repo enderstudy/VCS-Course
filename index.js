@@ -4,5 +4,5 @@
 */
 (function() {
     const name = "Mousey";
-    console.log('hello ' + name);
+    console.log('hello ' + name.toUpperCase());
 });
